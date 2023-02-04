@@ -22,7 +22,7 @@ export default function Flow() {
   const [edges, setEdges, onEdgesChange] = useEdgesState(initialEdges);
 
   const onConnect = useCallback(
-    (params) => setEdges((eds) => addEdge(params, eds)),
+    (params:any) => setEdges((eds) => addEdge(params, eds)),
     [setEdges]
   );
 
