@@ -22,6 +22,16 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## Documentation / Tutorials Used for the Project
+- [https://nextjs.org/docs/api-reference/create-next-app](https://nextjs.org/docs/api-reference/create-next-app)
+- Push to a repo on github
+- Managed Next.js with Vercel: [https://nextjs.org/docs/deployment#managed-nextjs-with-vercel](https://nextjs.org/docs/deployment#managed-nextjs-with-vercel)
+- Push to a branch, and Vercel automatically creates a new version of app
+- [https://www.npmjs.com/package/reactflow](https://www.npmjs.com/package/reactflow)
+- [https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [https://tailwindcss.com/docs/installation](https://tailwindcss.com/docs/installation)
+- [https://daisyui.com/](https://daisyui.com/)
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
